@@ -1,0 +1,40 @@
+/* Start navbar */
+
+body {
+    background-color: #C7E2FE ;
+}
+img {
+    max-height: 400px;
+}
+a {
+    text-align: center;
+    font-weight: bold;
+}
+.home-h3 {
+    margin-top:  150px;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 3px 2px rgb(167, 179, 168);
+}
+.nav-pills .nav-link.active{
+    background-color: #303030!important;
+}
+h1 {
+    font-weight: bolder;
+    text-align: center;
+    margin: 30px auto;
+}
+p {
+    word-wrap: none;
+    text-overflow: clip;
+    word-break: keep-all;
+}
+ol li {
+    font-weight: 500;
+    font-size: large;
+    word-wrap: clip;
+    text-overflow: clip;
+    word-break: keep-all;
+    text-align: left;
+}
+/* End navbar */
